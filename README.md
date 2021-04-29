@@ -1,2 +1,2 @@
 # public-holiday-list
-Public holidays in the world
+Public holiday calendars in the world
